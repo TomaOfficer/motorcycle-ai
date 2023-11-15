@@ -1,7 +1,10 @@
-# Ignore virtual environment
+# Virtual environment
 venv/
 
-# Other common ignores
+# Environment variables
+.env
+
+# Other
 __pycache__/
 *.pyc
 .DS_Store
